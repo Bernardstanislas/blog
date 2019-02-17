@@ -32,7 +32,7 @@ const config: WebsiteConfig = {
   title: 'L\'endroit',
   description: 'Half code, half not, 100% lifestyle',
   coverImage: 'img/blog-cover.jpg',
-  logo: 'img/lendroit.jpeg',
+  logo: 'img/logo.png',
   lang: 'en',
   siteUrl: 'https://blog.lendro.it',
   showSubscribe: false,
