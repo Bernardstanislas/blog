@@ -3,7 +3,7 @@ layout: post
 title: "React Default Props Pattern with Typescript"
 author: Ghost
 tags: ["react", "Typescript"]
-image: img/testimg-cover.jpg
+image: img/daniil-kuzelev-361680-unsplash.jpg
 date: "2019-04-14T15:11:55.000Z"
 draft: false
 ---
